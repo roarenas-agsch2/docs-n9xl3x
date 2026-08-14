@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-tpjb9q.jaccon.com.br/sitemap.xml
